@@ -13,13 +13,19 @@ redirect_from:
 
 
 ## Introduction
-I am a PhD student at the Centro de Informática of the Universidade Federal de Pernambuco, in Brazil. I work as a Artificial Intelligence researcher at [NeuralMind.ai](neuralmind.ai). My research topic is related to Assistive Technologies. I am applying deep learning techniques for facilitating sentence construction in augmentative and alternative communication systems.
+I am a PhD student at the Centro de Informática of the Universidade Federal de Pernambuco, in Brazil. I work as a Artificial Intelligence researcher at [NeuralMind.ai](neuralmind.ai). My research topic is related to Assistive Technologies. In my PhD, I am applying deep learning techniques for facilitating sentence construction in augmentative and alternative communication systems. 
 
-## Disciplines
+## Research Interests
+My research interests lie in the intersection of AI and Assistive Technologies. Specifically, I am interested in using deep learning techniques to facilitate sentence construction in augmentative and alternative communication systems. Through my research, I hope to develop new approaches that can help individuals with disabilities to communicate more easily and effectively.
+
+## Expertise
+My expertise lies in the following areas:
+
 * Artificial Intelligence
 * Natural Language Processing
 * Deep Learning
 * Augmentative and Alternative Communication
+* Information Retrieval
 
 ## Languages
 * Portuguese
