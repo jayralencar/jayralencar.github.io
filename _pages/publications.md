@@ -5,5 +5,5 @@ permalink: /publications/
 author_profile: true
 ---
 
-<script src="https://bibbase.org/show?bib=jayralencar.github.io/citations.bib&jsonp=1"></script> 
+<script src="https://bibbase.org/show?bib=https://jayralencar.github.io/files/citations.bib&jsonp=1"></script> 
 
