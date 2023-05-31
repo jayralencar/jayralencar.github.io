@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-## [CV Lates](http://buscatextual.cnpq.br/buscatextual/visualizacv.do?id=K8561724U9)
+## [CV Lattes](http://buscatextual.cnpq.br/buscatextual/visualizacv.do?id=K8561724U9)
 
 Education
 ======
