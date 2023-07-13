@@ -30,4 +30,8 @@ Work experience
   * NeuralMind.ai
   * Duties included: developing solutions and research using large language models like GPT-3
   * Team Leader: Professor Rodrigo Nogueira
+
+Prizes
+=====
+* **Best Paper Award**: The 23rd IEEE International Conference on Advanced Learning Technologies (ICALT 2023). **Title:** An Augmentative and Alternative Communication Synthetic Corpus for Brazilian Portuguese.
   
