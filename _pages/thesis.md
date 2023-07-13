@@ -28,3 +28,11 @@ Augmentative and Alternative Communication (AAC) systems assist individuals with
 
 ### Keywords
 ugmentative and Alternative Communication. Message authoring. Sentence construction. Pictogram prediction. Colourful Semantics
+
+### Examiners
+
+[Rodrigo Frassetto Nogueira](http://lattes.cnpq.br/2262290293439713) - UNICAMP<br>
+[André Carlos Ponce de Leon Ferreira de Carvalho](http://lattes.cnpq.br/9674541381385819) - USP<br>
+[Adriano Lorena Inacio de Oliveira](http://lattes.cnpq.br/5194381227316437) - CIn-UFPE<br>
+[Filipe Carlos de Albuquerque Calegário](http://lattes.cnpq.br/7709859860474826) - CIn-UFPE<br>
+[Geber Lisboa Ramalho](http://lattes.cnpq.br/9783292465422902) - CIn-UFPE <br>
