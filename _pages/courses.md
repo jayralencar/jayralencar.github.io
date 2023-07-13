@@ -12,7 +12,7 @@ redirect_from:
 
 ## [Foundations of Large Language Models: Tools, Techniques, and Applications](https://uwaterloo.ca/watspeed/programs-and-courses/foundations-large-language-models)
 
-**As Teacher Assistant**
+**As a Teacher Assistant**
 
 **Main tutor: [Rodrigo Nogueira](https://scholar.google.com.br/citations?user=xD32wZ8AAAAJ&hl=pt-BR)**
 
