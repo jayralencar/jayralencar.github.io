@@ -8,18 +8,14 @@ redirect_from:
   - /about.html
 ---
 
-<!-- Jayr A. Pereira is an AI researcher and PhD student with a strong passion for natural language processing. With years of experience in the field, Jayr has developed a deep understanding of the complex mechanisms behind language, and how they can be used to build intelligent systems that can understand and interpret text in a variety of languages, including English and Brazilian Portuguese. -->
-
-
-
 ## Introduction
-I am a PhD student at the Centro de Informática of the Universidade Federal de Pernambuco, in Brazil. I work as a Artificial Intelligence researcher at [NeuralMind.ai](neuralmind.ai). My research topic is related to Assistive Technologies. In my PhD, I am applying deep learning techniques for facilitating sentence construction in augmentative and alternative communication systems. 
+I am a researcher at [NeuralMind.ai](neuralmind.ai), holding a PhD in Artificial Intelligence from Centro de Informática, Universidade Federal de Pernambuco, Brazil. My primary focus is on Assistive Technologies, with a specialization in employing deep learning techniques to enhance sentence construction within augmentative and alternative communication systems. Throughout my career, I have gained extensive experience in using Large Language Models (LLMs) for various tasks. Additionally, I have extensive experience in utilizing Large Language Models (LLMs) for various tasks.
 
 ## Research Interests
-My research interests lie in the intersection of AI and Assistive Technologies. Specifically, I am interested in using deep learning techniques to facilitate sentence construction in augmentative and alternative communication systems. Through my research, I hope to develop new approaches that can help individuals with disabilities to communicate more easily and effectively.
+My passion lies at the intersection of AI and Assistive Technologies, where I concentrate on leveraging deep learning methodologies to facilitate sentence construction within augmentative and alternative communication systems. Through my research, I aim to develop innovative approaches that empower individuals with disabilities to communicate more effortlessly and efficiently. Furthermore, I have made significant contributions to the field by proposing [Visconde](http://doi.org/10.1007/978-3-031-28238-6_44), one of the pioneering approaches for incorporating information retrieval in LLMs.
 
 ## Expertise
-My expertise lies in the following areas:
+With a strong foundation in Artificial Intelligence, Natural Language Processing, and Deep Learning, I possess expertise in the following areas:
 
 * Artificial Intelligence
 * Natural Language Processing

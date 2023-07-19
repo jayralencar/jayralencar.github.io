@@ -16,7 +16,7 @@ Education
 * B.S. in Analysis and Development of Systems, Faculdade Leão Sampaio, Juazeiro do Norte-CE, Brazil, 2014
 * MBA. in Teaching in Higher Education, Instituto Dom José de Educação e Cultura, IDJ, Brazil, 2016.
 * Ms.C in Computer Science, Centro de Informática, Universidade Federal de Pernambuco, Brazil, 2020.
-* Ph.D in Computer Science,  Centro de Informática, Universidade Federal de Pernambuco, Brazil, 2023 (expected).
+* Ph.D in Computer Science,  Centro de Informática, Universidade Federal de Pernambuco, Brazil, 2023.
 
 Work experience
 ======
