@@ -1,14 +1,21 @@
 ---
 layout: archive
-title: "Courses"
-permalink: /courses/
+title: "Teaching"
+permalink: /teaching/
 author_profile: true
 redirect_from:
   - /course
   - /cursos
+  - /teaching
+  - /disciplinas
 ---
 
 {% include base_path %}
+
+## [[UNICAMP] IA024 - Redes Neurais Profundas para Processamento de Linguagem Natural ](https://sites.google.com/unicamp.br/deep-learning-nlp/in%C3%ADcio)
+
+Disciplina ministrada na Pós-graduação da Faculdade de Engenharia Elétrica e de Computação da Universidade Estadual de Campinas (UNICAMP), juntamente com o Prof. Dr. Roberto Lotufo.
+
 
 ## [Foundations of Large Language Models: Tools, Techniques, and Applications](https://uwaterloo.ca/watspeed/programs-and-courses/foundations-large-language-models)
 
