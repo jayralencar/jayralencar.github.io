@@ -26,10 +26,13 @@ Work experience
 * 2017-2017: Teacher
   * Colégio Objetivo Juazeiro do Norte
   * Duties: teaching informatics to hihg school
-* 2022 - now: Research Assistant
+* 2022 - 2024: Research Assistant
   * NeuralMind.ai
   * Duties included: developing solutions and research using large language models like GPT-3
-  * Team Leader: Professor Rodrigo Nogueira
+* 2024 - now: Adjunct Professor
+  * Universidade Federal do Cariri
+* 2024 - now: colaborator researcher
+  * Universidade Estadual de Campinas (UNICAMP)
 
 Prizes
 =====
