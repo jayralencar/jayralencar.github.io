@@ -10,7 +10,7 @@ redirect_from:
 
 ## Introduction
 
-I am a Professor at the [Universidade Federal do Cariri](https://www.ufca.edu.br/portal/), Brazil, and a collaborator researcher at the [Universidade Estadual de Campinas (UNICAMP)](https://www.unicamp.br/unicamp/). I hold a PhD in Computer Science from the [Universidade Federal de Pernambuco] (https://www.ufpe.br/), Brazil. My primary focus is on Assistive Technologies, with a specialization in employing deep learning techniques to enhance sentence construction within augmentative and alternative communication systems. Throughout my career, I have gained extensive experience in using Large Language Models (LLMs) for various tasks, including information retrieval, information extraction, question answering and text summarization.
+I am a Professor at the [Universidade Federal do Cariri](https://www.ufca.edu.br/portal/), Brazil, and a collaborator researcher at the [Universidade Estadual de Campinas (UNICAMP)](https://www.unicamp.br/unicamp/). I hold a PhD in Computer Science from the [Universidade Federal de Pernambuco](https://www.ufpe.br/), Brazil. My primary focus is on Assistive Technologies, with a specialization in employing deep learning techniques to enhance sentence construction within augmentative and alternative communication systems. Throughout my career, I have gained extensive experience in using Large Language Models (LLMs) for various tasks, including information retrieval, information extraction, question answering and text summarization.
 
 
 ## Research Interests
