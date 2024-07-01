@@ -4,7 +4,9 @@ main:
     url: /publications/
 
   - title: "Teaching"
-    url: /teaching/    
+    url: /teaching/
+
+  
 
 #   - title: "Teaching"
 #     url: /teaching/    
@@ -16,10 +18,10 @@ main:
 #     url: /year-archive/
     
   - title: "CV"
-    url: /cv/
-  
-  - title: "Thesis"
-    url: /thesis/    
+    url: /cv/    
+
+  - title: "Iniciação Científica"
+    url: /ic/    
     
 #   - title: "Guide"
 #     url: /markdown/
