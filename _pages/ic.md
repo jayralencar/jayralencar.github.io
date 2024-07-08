@@ -18,6 +18,10 @@ redirect_from:
 
 Selecionar um bolsista de iniciação científica para o projeto de pesquisa intitulado "APRIMORANDO A EXPERIÊNCIA DO USUÁRIO EM SISTEMAS DE COMUNICAÇÃO AUMENTATIVA E ALTERNATIVA" sob a coordenação do Prof. Dr. Jayr Alencar Pereira, da Universidade Federal do Cariri (UFCA).
 
+### Bolsa
+
+A bolsa de iniciação científica terá duração de 12 meses, com início em agosto de 2024. O valor da bolsa é de R$ 700,00 (setecentos reais) mensais.
+
 ### Requisitos
 
 - Estar regularmente matriculado em um curso de graduação da Universidade Federal do Cariri;
