@@ -14,80 +14,38 @@ redirect_from:
 
 ## Seleção Simplificada de Bolsista de Iniciação Científica 
 
-### Objetivo
+Projeto:  Pré-Treino e Ajuste Fino de LLM para Interpretação e Análise Jurídica
+Orientador: Jayr Alencar Pereira (UFCA)
 
-Selecionar um bolsista de iniciação científica para o projeto de pesquisa intitulado "APRIMORANDO A EXPERIÊNCIA DO USUÁRIO EM SISTEMAS DE COMUNICAÇÃO AUMENTATIVA E ALTERNATIVA" sob a coordenação do Prof. Dr. Jayr Alencar Pereira, da Universidade Federal do Cariri (UFCA).
+Este projeto tem como objetivo desenvolver um modelo de linguagem natural (LLM) para interpretação e análise jurídica. O projeto será realizado em parceria com a empresa NeuralMind.ai e a FINEP por meio da chamada Finep 0517/24. A participação da UFCA neste projeto prevê a participação de alunos de graduação na modalidade de Iniciação Científica (IC).
 
-### Bolsa
+Os estudantes participarão de atividades de pesquisa e desenvolvimento de modelos de linguagem, tais como: coleta e limpeza de dados para pre-treino e ajuste fino de modelos de linguagem, treinamento de modelos de linguagem, avaliação de modelos de linguagem, fine-tuning dos modelos para tarefas específicas, desenvolvimento de prompts para geração de textos, entre outras atividades.
 
-A bolsa de iniciação científica terá duração de 12 meses, com início em agosto de 2024. O valor da bolsa é de R$ 700,00 (setecentos reais) mensais.
+Os estudantes selecionados deverão ter disponibilidade de 20 horas semanais para dedicação ao projeto. A bolsa de IC terá duração de 12 meses, com possibilidade de renovação por mais 12 meses e, posteriormente, mais uma renovação de 6 meses. O valor da bolsa é de R$ 700,00 mensais.
 
 ### Requisitos
+* Estar regularmente matriculado em um curso de graduação da Universidade Federal do Cariri;
+* Não ter previsão de conclusão de curso para o período de vigência da bolsa (janeiro a dezembro de 2025);
+* Ter disponibilidade de 20 horas semanais para dedicação ao projeto;
+* Ter conhecimento em programação de computadores.
+* Ter interesse em aprendizagem de máquina, IA generativa e processamento de linguagem natural.
 
-- Estar regularmente matriculado em um curso de graduação da Universidade Federal do Cariri;
-- Ter disponibilidade de 20 horas semanais para dedicação ao projeto;
-- Ter disponibilidade para fazer visitas esporádicas a Juazeiro do Norte para realização de eventuais atividades presenciais (maior parte do projeto será remota);
-- Ter conhecimento em programação de computadores, design de interfaces ou experiência do usuário.
+### Etapas da seleção:
+1. Inscrição (04/11/2024 a 22/11/2024)
 
-### Seleção
+Os interessados devem preencher o formulário de inscrição disponível em: LINK DO FORM
 
-A seleção será realizada em três etapas:
+2. Análise de currículo e histórico escolar (25/11/2024 a 29/11/2024)
 
-#### 1. Análise do histórico escolar
+Na análise do histórico escolar, será considerada a média global do candidato. Neste caso, as disciplinas de programação de computadores, introdução a programação, programação orientada a objetos, fundamentos da programação, estrutura de dados, aprendizagem de máquina e disciplinas relacionadas terão peso 2, enquanto as demais disciplinas terão peso 1.
 
-Na análise do histórico escolar, será considerada a média global do candidato. Neste caso, as disciplinas de programação de computadores, interação humano-computador, design de interfaces e experiência do usuário terão peso 2, enquanto as demais disciplinas terão peso 1.
+Nesta etapa, serão selecionados no máximo 5 candidatos para a próxima etapa.
 
-Nesta etapa, serão selecionados os 10 candidatos com as maiores médias.
+3. Entrevista (02/12/2024 a 06/12/2024)
 
-#### 2. Avaliação da capacidade de leitura e interpretação de artigos científicos
+Os candidatos selecionados na etapa anterior serão entrevistados. Nesta etapa, serão avaliados a capacidade de comunicação, a motivação e o interesse do candidato pelo projeto. O entrevistador poderá fazer perguntas sobre o currículo do candidato e sua experiência em programação e aprendizagem de máquina. Além disso, o candidato poderá ser solicitado a resolver um problema prático de programação durante a entrevista. Portanto é importante que o candidato esteja preparado para compartilhar sua tela durante a entrevista.
 
-Os candidatos selecionados na etapa anterior deverão elaborar um resumo de um artigo científico previamente selecionado pela comissão de seleção. O artigo e o formulário para envio do resumo serão enviados para os candidatos selecionados na etapa anterior por meio do e-mail informado na inscrição.
-
-Os resumos serão avaliados de acordo com os seguintes critérios:
-
-- Consistência do resumo em relação ao conteúdo do artigo;
-- Relevância do resumo em relação ao projeto de pesquisa;
-- Coerência e clareza na escrita.
-
-Cada resumo receberá uma nota de 0 a 10. O resultado desta etapa será a média da nota do resumo e da média global do candidato na etapa anterior.
-
-Os 5 candidatos com as maiores médias serão selecionados para a próxima etapa.
-
-#### 3. Entrevista
-
-Os candidatos selecionados na etapa anterior serão entrevistados. Nesta etapa, serão avaliados a capacidade de comunicação, a motivação e o interesse do candidato pelo projeto.
-
-### Inscrição
-
-Os interessados devem responder ao formulário de inscrição disponível em [https://forms.gle/f8QtyPRuzsxQwE5p8](https://forms.gle/f8QtyPRuzsxQwE5p8) até o dia 12 de julho de 2024.
-
-### Cronograma
-
-| Etapa | Data           |
-|-------|----------------|
-| Inscrição | 01/07/2024 a 12/07/2024 |
-| Análise do histórico escolar | 02/07/2024 a 15/07/2024 |
-| Resultado da análise do histórico escolar | 15/07/2024 |
-| Período para envio do resumo | 15/07/2024 a 19/07/2024 |
-| Resultado da avaliação do resumo | 22/07/2024 |
-| Entrevistas | 23/07/2024 a 26/07/2024 |
-| Resultado final | 29/07/2024 |
-
-### Sobre o projeto
-
-O objetivo geral deste projeto é aprimorar a experiência do usuário em sistemas de CAA, com foco em crianças com condições neurológicas, como o autismo. Para alcançar esse objetivo, são propostos os seguintes objetivos específicos:
-
-* Desenvolver um método de design centrado no usuário para sistemas de CAA, considerando as necessidades específicas de crianças com autismo.
-* Avaliar a eficácia do método proposto na criação de interfaces gráficas acessíveis e eficazes para sistemas de CAA.
-* Investigar a percepção e a experiência dos usuários em relação às interfaces desenvolvidas com base no método proposto.
-
-### Disposições finais
-
-- A bolsa terá duração de 12 meses, com início em agosto de 2024;
-- O bolsista deverá apresentar um relatório semestral das atividades desenvolvidas;
-- O candidato deverá consultar o item 12 do edital [Nº 01/2024/PRPI/UFCA](https://documentos.ufca.edu.br/wp-folder/wp-content/uploads/2024/02/PRPI.UFCA-Edital-01.2024-CHAMADA-PIICT-CNPq-FUNCAP-E-UFCA-22.02.2024.pdf) na página da PRPI para informações sobre os compromissos e deveres do bolsista.
-- Há apenas uma vaga disponível para bolsista. No entanto, os candidatos com bom desempenho poderão ser convidados a participar do projeto como voluntários.
-
+Início do projeto previsto para Janeiro de 2025.
 ### Dúvidas
 
 Entre em contato com jayr.pereira@ufca.edu.br
