@@ -15,6 +15,7 @@ redirect_from:
 ## Seleção Simplificada de Bolsista de Iniciação Científica 
 
 Projeto:  Pré-Treino e Ajuste Fino de LLM para Interpretação e Análise Jurídica
+
 Orientador: Jayr Alencar Pereira (UFCA)
 
 Este projeto tem como objetivo desenvolver um modelo de linguagem natural (LLM) para interpretação e análise jurídica. O projeto será realizado em parceria com a empresa NeuralMind.ai e a FINEP por meio da chamada Finep 0517/24. A participação da UFCA neste projeto prevê a participação de alunos de graduação na modalidade de Iniciação Científica (IC).
