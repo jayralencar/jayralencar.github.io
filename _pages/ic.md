@@ -14,6 +14,8 @@ redirect_from:
 
 ## Seleção Simplificada de Bolsista de Iniciação Científica 
 
+*Selecionam-se alunos de graduação motivados e interessados em pesquisa científica e em aprender sobre LLMs, IA generativa, Deep Learning e Processamento de Linguagem Natural.*
+
 Projeto:  Pré-Treino e Ajuste Fino de LLM para Interpretação e Análise Jurídica
 
 Orientador: Jayr Alencar Pereira (UFCA)
@@ -44,7 +46,7 @@ Serão selecionados no máximo 5 candidatos para a próxima etapa.
 
 3. Entrevistas (02/12/2024 a 06/12/2024)
 
-Os candidatos selecionados na etapa anterior serão entrevistados. Nesta etapa, serão avaliados a capacidade de comunicação, a motivação e o interesse do candidato pelo projeto. O entrevistador poderá fazer perguntas sobre o currículo do candidato e sua experiência em programação e aprendizagem de máquina. Além disso, o candidato poderá ser solicitado a resolver um problema prático de programação durante a entrevista. Portanto é importante que o candidato esteja preparado para compartilhar sua tela durante a entrevista.
+Os candidatos selecionados na etapa anterior serão entrevistados. Nesta etapa, serão avaliados a capacidade de comunicação, a motivação e o interesse do candidato pelo projeto. O entrevistador poderá fazer perguntas sobre o currículo do candidato e sua experiência em programação e aprendizagem de máquina. Além disso, o candidato poderá ser solicitado a resolver um problema prático de programação durante a entrevista. Portanto, é importante que o candidato esteja preparado para compartilhar sua tela durante a entrevista.
 
 4. Divulgação do resultado final (09/12/2024 a 13/12/2024)
 
@@ -52,4 +54,4 @@ Início do projeto previsto para Janeiro de 2025.
 
 ### Dúvidas
 
-Entre em contato com jayr.pereira@ufca.edu.br
+Entre em contato com [jayr.pereira@ufca.edu.br](mailto:jayr.pereira@ufca.edu.br)
