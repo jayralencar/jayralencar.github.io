@@ -24,12 +24,12 @@ Este projeto tem como objetivo desenvolver um modelo de linguagem natural (LLM) 
 
 Os estudantes participarão de atividades de pesquisa e desenvolvimento de modelos de linguagem, tais como: coleta e limpeza de dados para pre-treino e ajuste fino de modelos de linguagem, treinamento de modelos de linguagem, avaliação de modelos de linguagem, fine-tuning dos modelos para tarefas específicas, desenvolvimento de prompts para geração de textos, entre outras atividades.
 
-Os estudantes selecionados deverão ter disponibilidade de 20 horas semanais para dedicação ao projeto. A bolsa de IC terá duração de 12 meses, com possibilidade de renovação por mais 12 meses e, posteriormente, mais uma renovação de 6 meses. O valor da bolsa é de R$ 700,00 mensais.
+Os estudantes selecionados deverão ter disponibilidade de 20 horas semanais para dedicação ao projeto. A bolsa de IC terá duração de 12 meses, com possibilidade de renovação por mais 12 meses e, posteriormente, mais uma renovação de 6 meses. O valor da bolsa é de R$ 700,00 mensais e a atuação do bolsista será na modalidade **REMOTA**.
 
 ### Requisitos
 * Estar regularmente matriculado em um curso de graduação da Universidade Federal do Cariri;
 * Não ter previsão de conclusão de curso para o período de vigência da bolsa (janeiro a dezembro de 2025);
-* Ter disponibilidade de 20 horas semanais para dedicação ao projeto;
+* Ter disponibilidade de 10 horas semanais para dedicação ao projeto (**REMOTO**);
 * Ter conhecimentos em programação de computadores.
 * Ter interesse em aprendizagem de máquina, IA generativa e processamento de linguagem natural.
 
