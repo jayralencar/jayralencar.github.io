@@ -34,21 +34,21 @@ Os estudantes selecionados deverão ter disponibilidade de 20 horas semanais par
 * Ter interesse em aprendizagem de máquina, IA generativa e processamento de linguagem natural.
 
 ### Etapas da seleção:
-1. Inscrição (08/11/2024 a 22/11/2024)
+#### 1. Inscrição (08/11/2024 a 22/11/2024)
 
 Os interessados devem preencher o formulário de inscrição disponível em: [https://forms.gle/Fsynq5zTPQKMoHXJ8](https://forms.gle/Fsynq5zTPQKMoHXJ8)
 
-2. Análise de currículo e histórico escolar (25/11/2024 a 29/11/2024)
+#### 2. Análise de currículo e histórico escolar (25/11/2024 a 29/11/2024)
 
 Na análise do histórico escolar, será considerada a média global do candidato. Neste caso, as disciplinas de programação de computadores, introdução a programação, programação orientada a objetos, fundamentos da programação, estrutura de dados, aprendizagem de máquina e disciplinas relacionadas terão peso 2, enquanto as demais disciplinas terão peso 1.
 
 Serão selecionados no máximo 5 candidatos para a próxima etapa.
 
-3. Entrevistas (02/12/2024 a 06/12/2024)
+#### 3. Entrevistas (02/12/2024 a 06/12/2024)
 
 Os candidatos selecionados na etapa anterior serão entrevistados. Nesta etapa, serão avaliados a capacidade de comunicação, a motivação e o interesse do candidato pelo projeto. O entrevistador poderá fazer perguntas sobre o currículo do candidato e sua experiência em programação e aprendizagem de máquina. Além disso, o candidato poderá ser solicitado a resolver um problema prático de programação durante a entrevista. Portanto, é importante que o candidato esteja preparado para compartilhar sua tela durante a entrevista.
 
-4. Divulgação do resultado final (09/12/2024 a 13/12/2024)
+#### 4. Divulgação do resultado final (09/12/2024 a 13/12/2024)
 
 Início do projeto previsto para Janeiro de 2025.
 
