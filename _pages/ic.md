@@ -14,7 +14,7 @@ redirect_from:
 
 ## Seleção Simplificada de Bolsista de Iniciação Científica 
 
-*Selecionam-se alunos de graduação motivados e interessados em pesquisa científica e em aprender sobre LLMs, IA generativa, Deep Learning e Processamento de Linguagem Natural.*
+**Selecionam-se alunos de graduação motivados e interessados em pesquisa científica e em aprender sobre LLMs, IA generativa, Deep Learning e Processamento de Linguagem Natural.**
 
 Projeto:  Pré-Treino e Ajuste Fino de LLM para Interpretação e Análise Jurídica
 
@@ -34,7 +34,7 @@ Os estudantes selecionados deverão ter disponibilidade de 20 horas semanais par
 * Ter interesse em aprendizagem de máquina, IA generativa e processamento de linguagem natural.
 
 ### Etapas da seleção:
-1. Inscrição (04/11/2024 a 22/11/2024)
+1. Inscrição (08/11/2024 a 22/11/2024)
 
 Os interessados devem preencher o formulário de inscrição disponível em: [https://forms.gle/Fsynq5zTPQKMoHXJ8](https://forms.gle/Fsynq5zTPQKMoHXJ8)
 
