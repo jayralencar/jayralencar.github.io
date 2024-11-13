@@ -44,7 +44,7 @@ Na análise do histórico escolar, será considerada a média global do candidat
 
 ##### Aditivo 
 
-```A média final do candidato será multiplicada pela quantidade de disciplina relacionadas a programação de computadores, introdução a programação, programação orientada a objetos, fundamentos da programação, estrutura de dados, aprendizagem de máquina nas quais o candidato tenha sido aprovado.```
+```A média final do candidato será ajustada pela quantidade de disciplina relacionadas a programação de computadores, introdução a programação, programação orientada a objetos, fundamentos da programação, estrutura de dados, aprendizagem de máquina nas quais o candidato tenha sido aprovado.```
 
 Serão selecionados no máximo 5 candidatos para a próxima etapa.
 
