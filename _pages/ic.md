@@ -42,6 +42,10 @@ Os interessados devem preencher o formulário de inscrição disponível em: [ht
 
 Na análise do histórico escolar, será considerada a média global do candidato. Neste caso, as disciplinas de programação de computadores, introdução a programação, programação orientada a objetos, fundamentos da programação, estrutura de dados, aprendizagem de máquina e disciplinas relacionadas terão peso 2, enquanto as demais disciplinas terão peso 1.
 
+##### Aditivo 
+
+```A média final do candidato será multiplicada pela quantidade de disciplina relacionadas a programação de computadores, introdução a programação, programação orientada a objetos, fundamentos da programação, estrutura de dados, aprendizagem de máquina nas quais o candidato tenha sido aprovado.```
+
 Serão selecionados no máximo 5 candidatos para a próxima etapa.
 
 #### 3. Entrevistas (02/12/2024 a 06/12/2024)
