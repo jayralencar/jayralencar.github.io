@@ -12,50 +12,27 @@ redirect_from:
 
 {% include base_path %}
 
-## Seleção Simplificada de Bolsista de Iniciação Científica 
+## Projetos
 
-**Selecionam-se alunos de graduação motivados e interessados em pesquisa científica e em aprender sobre LLMs, IA generativa, Deep Learning e Processamento de Linguagem Natural.**
+### Aprimorando a Experiência do Usuário em Sistemas de Comunicação Aumentativa e Alternativa
+Este projeto de pesquisa visa desenvolver e avaliar interfaces de usuário inovadoras para Sistemas de Comunicação Aumentativa e Alternativa (CAA), com foco especial em crianças com autismo.
+**Bolsistas:** 1
+**Duração:** 24 meses
+**Início:** setembro de 2024
+**Financiamento:** UFCA
 
-Projeto:  Pré-Treino e Ajuste Fino de LLM para Interpretação e Análise Jurídica
+### Construção de um Corpus de Texto Sintético para Comunicação Aumentativa e Alternativa
+Este projeto propõe a construção de um corpus de texto sintético voltado para a Comunicação Aumentativa e Alternativa (CAA), com base na estrutura semântica do Colourful Semantics (CS). A CAA tem como objetivo apoiar a comunicação de indivíduos com Necessidades Complexas de Comunicação (NCC), utilizando pranchas de comunicação e cartões pictográficos.
+**Bolsistas:** 1
+**Duração:** 24 meses
+**Início:** julho de 2025
+**Financiamento:** FUNCAP (PROGRAMA DE BOLSA DE PRODUTIVIDADE EM PESQUISA, ESTÍMULO À INTERIORIZAÇÃO E INOVAÇÃO TECNOLÓGICA – BPI, Edital 11/2024)
 
-Orientador: Jayr Alencar Pereira (UFCA)
+### Uso de Modelos de Linguagem de Grande Porte para Apoiar Contribuintes na Declaração do Imposto de Renda
+Este projeto de pesquisa investiga o uso de Modelos de Linguagem de Grande Porte (LLMs) como ferramenta de apoio à educação dos contribuintes brasileiros na declaração do Imposto de Renda.
+**Bolsistas:** 1
+**Duração:** 12 meses
+**Início:** agosto de 2025
+**Financiamento:** UFCA
 
-Este projeto tem como objetivo desenvolver um modelo de linguagem natural (LLM) para interpretação e análise jurídica. O projeto será realizado em parceria com a empresa NeuralMind.ai e a FINEP por meio da chamada Finep 0517/24. A participação da UFCA neste projeto prevê a participação de alunos de graduação na modalidade de Iniciação Científica (IC).
 
-Os estudantes participarão de atividades de pesquisa e desenvolvimento de modelos de linguagem, tais como: coleta e limpeza de dados para pre-treino e ajuste fino de modelos de linguagem, treinamento de modelos de linguagem, avaliação de modelos de linguagem, fine-tuning dos modelos para tarefas específicas, desenvolvimento de prompts para geração de textos, entre outras atividades.
-
-Os estudantes selecionados deverão ter disponibilidade de 10 horas semanais para dedicação ao projeto. A bolsa de IC terá duração de 12 meses, com possibilidade de renovação por mais 12 meses e, posteriormente, mais uma renovação de 6 meses. O valor da bolsa é de R$ 700,00 mensais e a atuação do bolsista será na modalidade **REMOTA**.
-
-### Requisitos
-* Estar regularmente matriculado em um curso de graduação da Universidade Federal do Cariri;
-* Não ter previsão de conclusão de curso para o período de vigência da bolsa (janeiro a dezembro de 2025);
-* Ter disponibilidade de 10 horas semanais para dedicação ao projeto (**REMOTO**);
-* Ter conhecimentos em programação de computadores.
-* Ter interesse em aprendizagem de máquina, IA generativa e processamento de linguagem natural.
-
-### Etapas da seleção:
-#### 1. Inscrição (08/11/2024 a 22/11/2024)
-
-Os interessados devem preencher o formulário de inscrição disponível em: [https://forms.gle/Fsynq5zTPQKMoHXJ8](https://forms.gle/Fsynq5zTPQKMoHXJ8)
-
-#### 2. Análise de currículo e histórico escolar (25/11/2024 a 29/11/2024)
-
-Na análise do histórico escolar, será considerada a média global do candidato. Neste caso, as disciplinas de programação de computadores, introdução a programação, programação orientada a objetos, fundamentos da programação, estrutura de dados, aprendizagem de máquina e disciplinas relacionadas terão peso 2, enquanto as demais disciplinas terão peso 1.
-
-##### Aditivo 
-
-```A média final do candidato será ajustada pela quantidade de disciplina relacionadas a programação de computadores, introdução a programação, programação orientada a objetos, fundamentos da programação, estrutura de dados, aprendizagem de máquina nas quais o candidato tenha sido aprovado.```
-
-Serão selecionados no máximo 5 candidatos para a próxima etapa.
-
-#### 3. Entrevistas (02/12/2024 a 06/12/2024)
-
-Os candidatos selecionados na etapa anterior serão entrevistados. Nesta etapa, serão avaliados a capacidade de comunicação, a motivação e o interesse do candidato pelo projeto. O entrevistador poderá fazer perguntas sobre o currículo do candidato e sua experiência em programação e aprendizagem de máquina. Além disso, o candidato poderá ser solicitado a resolver um problema prático de programação durante a entrevista. Portanto, é importante que o candidato esteja preparado para compartilhar sua tela durante a entrevista.
-
-#### 4. Divulgação do resultado final (09/12/2024 a 13/12/2024)
-
-Início do projeto previsto para Janeiro de 2025.
-
-### Dúvidas
-
-Entre em contato com [jayr.pereira@ufca.edu.br](mailto:jayr.pereira@ufca.edu.br)
