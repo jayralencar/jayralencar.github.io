@@ -50,7 +50,7 @@ Os candidatos selecionados na etapa anterior serão entrevistados. Nesta etapa, 
 
 #### 4. Divulgação do resultado final (11/08/2024 a 14/08/2024)
 
-Início do projeto previsto para Agosto de 2025.
+Início do projeto previsto para Setembro de 2025.
 
 ### Dúvidas
 
