@@ -4,7 +4,7 @@ title: "Seleção Simplificada de Bolsista de Iniciação Científica em UI e UX
 permalink: /ic-ux
 author_profile: true
 redirect_from:
-  - /ic-ux
+  - /ic-ui
   - /iniciacao-cientifica-ux
 ---
 
