@@ -48,7 +48,7 @@ Serão selecionados no máximo 5 candidatos para a próxima etapa.
 
 Os candidatos selecionados na etapa anterior serão entrevistados. Nesta etapa, serão avaliados a capacidade de comunicação, a motivação e o interesse do candidato pelo projeto. O entrevistador poderá fazer perguntas sobre o currículo do candidato e sua experiência nos temas relacionados ao projeto.
 
-#### 4. Divulgação do resultado final (11/08/2024 a 14/08/2024)
+#### 4. Divulgação do resultado final (11/08/2025 a 14/08/2025)
 
 Início do projeto previsto para Setembro de 2025.
 
